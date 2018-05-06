@@ -2,7 +2,7 @@
   "name": "Nithi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kykungz.github.io/Nithi-frontend/",
+  "homepage": "https://kykungz.github.io/Nithi/",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "chart.js": "^2.7.2",
